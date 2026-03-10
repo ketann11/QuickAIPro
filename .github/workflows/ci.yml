@@ -18,4 +18,4 @@ jobs:
           node-version: '18'
 
       - name: Build check
-  run: echo "CI Pipeline working successfully"
+        run: echo "CI Pipeline working successfully"
