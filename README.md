@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚀 QuickAIPro – AI Content Creation Platform
 
 QuickAIPro is a modern AI-powered SaaS platform designed to help users generate high-quality digital content instantly.
@@ -162,3 +163,6 @@ This project is built for educational and demonstration purposes.
 
 Developed by **Shriyash** 
 Building scalable AI SaaS platforms 🚀
+=======
+# QuickAIPro
+>>>>>>> 4f699b143a578215e7ac77acbfb5a65f76cd0445
